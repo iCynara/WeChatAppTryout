@@ -1,12 +1,14 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/about/about"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
+<<<<<<< HEAD
     "navigationBarTextStyle":"black"
   },
   "tabBar":{
@@ -17,6 +19,20 @@
       "pagePath": "pages/logs/logs",
       "text": "Log"
     }
+=======
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "Homepage"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "about"
+      }
+>>>>>>> a3bc176... play with tapbar
     ]
   }
 }
