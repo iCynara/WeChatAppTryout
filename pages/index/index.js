@@ -4,11 +4,7 @@ const app = getApp()
 
 Page({
   data: {
-<<<<<<< HEAD
-    motto: 'This is Cynars test',
-=======
     motto: 'Cynara test',
->>>>>>> a3bc176... play with tapbar
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo')

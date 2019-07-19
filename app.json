@@ -8,18 +8,6 @@
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
-<<<<<<< HEAD
-    "navigationBarTextStyle":"black"
-  },
-  "tabBar":{
-    "list": [{
-      "pagePath": "pages/index/index",
-      "text": "Home"
-    }, {
-      "pagePath": "pages/logs/logs",
-      "text": "Log"
-    }
-=======
     "navigationBarTextStyle": "black"
   },
   "tabBar": {
@@ -32,7 +20,6 @@
         "pagePath": "pages/about/about",
         "text": "about"
       }
->>>>>>> a3bc176... play with tapbar
     ]
   }
 }
